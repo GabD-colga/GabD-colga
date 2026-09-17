@@ -5,7 +5,7 @@
 - 🤔 Procurando novas oportunidades
 
 <div align="center">
-  <img src="docs/Gab_photo.jpeg" width="100px" alt="gab photo" />
+  <img src="Gab_photo.jpeg" width="100px" alt="gab photo" />
   <h1>GitHub Stats Extended</h1>
   <p>Dynamically generate GitHub stats for your READMEs.</p>
 <a href="https://github-stats-extended.vercel.app/api?username=anuraghazra">
