@@ -1,12 +1,14 @@
-##Prazer, eu sou o Gabriel!
 
-- 🔭 Atualmente trabalho com Secretaria escolar
-- 🌱 Estudando Javascript, Python, HTML5, CSS e Banco de Dados
-- 🤔 Procurando novas oportunidades
 
 <div align="center">
-  <img src="Gab_photo.jpeg" width="100px" alt="gab photo" />
-  <h1>GitHub Stats Extended</h1>
+  <img src="Gab_photo.jpeg" width="170px" height="190px" alt="gab" style="border: 5px solid black; border-radius: 50%;"/>
+  <h1>Prazer, eu sou o Gabriel!</h1>
+<a>
+  - 🔭 Atualmente trabalho com Secretaria escolar
+  - 🌱 Estudando Javascript, Python, HTML5, CSS e Banco de Dados
+  - 🤔 Procurando novas oportunidades
+<div>
+</a>
   <p>Dynamically generate GitHub stats for your READMEs.</p>
 <a href="https://github-stats-extended.vercel.app/api?username=anuraghazra">
   <picture>
@@ -17,6 +19,7 @@
     <img src="https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=light_github" />
   </picture>
 </a>
+</div>
 </div>
 
 <div style="display: inline_block"><br>
