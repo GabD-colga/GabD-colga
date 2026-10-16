@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="Gab_photo.jpeg" width="170px" height="190px" alt="gab" style="border: 5px solid black; border-radius: 50%;"/>
+  <img src="Gab_photo.jpeg" width="170px" height="190px" alt="gab" />
   <h1>Prazer, eu sou o Gabriel!</h1>
 <a>
   - 🔭 Atualmente trabalho com Secretaria escolar
@@ -9,14 +9,14 @@
   - 🤔 Procurando novas oportunidades
 <div>
 </a>
-  <p>Dynamically generate GitHub stats for your READMEs.</p>
+  <p>Status dinâmicos do meu Github</p>
 <a href="https://github-stats-extended.vercel.app/api?username=anuraghazra">
   <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=dark_github"
+      srcset="https://github-stats-extended.vercel.app/api?username=GabD-colga&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=light_github" />
+    <img src="https://github-stats-extended.vercel.app/api?username=GabD-colga&theme=light_github" />
   </picture>
 </a>
 </div>
